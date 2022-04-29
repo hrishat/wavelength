@@ -1,0 +1,22 @@
+{
+  "name": "wavelength",
+  "version": "1.0.0",
+  "description": "click based dashing game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishat/wavelength.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Rezaul Karim",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hrishat/wavelength/issues"
+  },
+  "homepage": "https://github.com/hrishat/wavelength#readme"
+}
